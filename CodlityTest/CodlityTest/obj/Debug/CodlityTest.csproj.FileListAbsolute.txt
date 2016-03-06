@@ -1,0 +1,9 @@
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\bin\Debug\CodlityTest.exe.config
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\bin\Debug\CodlityTest.exe
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\bin\Debug\CodlityTest.pdb
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\obj\Debug\CodlityTest.exe
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\obj\Debug\CodlityTest.pdb
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\ICBT\CodlityTest\CodlityTest\obj\Debug\CodlityTest.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\Codility\CodlityTest\CodlityTest\bin\Debug\CodlityTest.exe.config
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\Codility\CodlityTest\CodlityTest\obj\Debug\CodlityTest.exe
+C:\Users\Nikhil\Desktop\Up.28.1 - Copy\Codility\CodlityTest\CodlityTest\obj\Debug\CodlityTest.pdb
